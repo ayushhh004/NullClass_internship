@@ -10,6 +10,7 @@ Features:
 Data Filtering: Filters reviews to include only those from the "Health & Fitness" category.
 Text Cleaning: Excludes common stopwords and app names.
 Word Cloud Generation: Creates a visual word cloud of the most frequent 5-star review keywords. Library Used: pandas: For data manipulation and handling. re: For regular expressions to clean text data. wordcloud: To generate the word cloud from review data. plotly: For visualizing and displaying the word cloud as an interactive dashboard.
+
 **Task 2**
 
 # Grouped Bar Chart for Top 10 App Categories
